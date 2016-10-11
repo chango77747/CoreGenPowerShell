@@ -1,0 +1,6 @@
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\obj\Debug\CoreGenPowerShell.csprojResolveAssemblyReference.cache
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\bin\Debug\CoreGenPowerShell.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\bin\Debug\CoreGenPowerShell.pdb
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\bin\Debug\System.Management.Automation.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\obj\Debug\CoreGenPowerShell.dll
+C:\Users\evan.pena\Documents\Visual Studio 2013\Projects\CoreGenPowerShell\CoreGenPowerShell\obj\Debug\CoreGenPowerShell.pdb
